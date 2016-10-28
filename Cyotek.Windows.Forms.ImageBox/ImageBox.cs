@@ -26,7 +26,11 @@ namespace Cyotek.Windows.Forms
   {
     #region Constants
 
+<<<<<<< HEAD
     private const int MaxZoom = 100000;
+=======
+    private const int MaxZoom = 10000;
+>>>>>>> origin/master
 
     private const int MinZoom = 1;
 
